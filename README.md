@@ -1,4 +1,4 @@
-# Système de Gestion de Bibliothèque - Java (Console)
+ # Système de Gestion de Bibliothèque - Java (Console)
 
 ## Description
 Ce projet est un système de gestion de bibliothèque développé en Java.  
@@ -19,3 +19,15 @@ Il permet de gérer une collection de livres avec différentes fonctionnalités 
 1. Compiler tous les fichiers Java :
 ```bash
 javac -d out $(find src/main/java -name "*.java")
+# LibrarySystemProject
+
+Projet Java – Système de gestion de bibliothèque (console)
+
+## 📌 Dépôt GitHub
+https://github.com/ROCHA-48/LibrarySystemProject
+
+## ⚙️ Compilation
+javac -d out $(find src/main/java -name "*.java")
+
+## ▶️ Exécution
+java -cp out App.Main
